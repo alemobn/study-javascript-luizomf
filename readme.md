@@ -3,55 +3,126 @@
 ![Static Badge](https://img.shields.io/badge/made_by-alemobn-0D0C0C)
 ![Static Badge](https://img.shields.io/badge/license-MIT-0D0C0C)
 
+⭐ Curso de JavaScript!
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ---
 
 ## Descrição
 
 Repositório de estudos, onde armazeno todos os códigos das aulas do curso **JavaScript** e **TypeScript** do básico ao avançado, do professor **Luiz Otávio Miranda**.
 
-* [Acesse o curso aqui](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview)
+[Acesse o curso aqui](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview)
+
+## Projetos
+
+Projetos desenvolvidos durante o curso:
+
+[IMC Calculator](https://www.github.com/alemobn/imc-calculator-js)
+
+---
+
+### Conteúdo abordado
+
+* JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end)
+* TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end)
+* Node, Express, MongoDB e MySQL/MariaDB (Back-end)
+* Webpack e Babel (Front-end)
+* Sistema de login com session (front-end e back-end)
+* Sistema de login com JWT (front-end e back-end)
+* Criação de projetos com Node, Express e EJS (front-end e back-end)
+* Configuração de um servidor Linux para Deploy (Ubuntu Server)
+* Configurações de segurança para o servidor (SSH e TLS - Https)
+* Utilização de noSQL com mongoose (MongoDB)
+* Utilização de SQL com sequelize (MySQL e MariaDB)
+* Criação de API Rest com Node + Express + Sequelize (back-end)
+* React JS com React Hooks + Redux com Redux Saga (front-end)
+* Princípios da programação orientada a objetos
+* Princípios S.O.L.I.D
+* Testes automatizados com o Jest
+* Expressões Regulares (Bônus)
+* Padrões de projeto GOF - Design Patterns (Bônus)
+* NestJS + NextJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR)
+* HTML5 e CSS3 (Bônus Extra)
 
 ---
 
 ### Estrutura do Curso
 
-1. Seção 1: Configurando o ambiente no Windows e Linux
+* Seção 1: Configurando o ambiente no Windows e Linux
 
-    1. Instalando NodeJS, VSCode e Chrome no Windows 
-    2. Instalando NodeJS, VSCode e Chrome no Linux (Ubuntu) 
-    3. Não se esqueça de salvar seus arquivos antes de salvar 
-    4. Entenda como o curso está estruturado 
-    5. Perguntas e Respostas - Como funciona? 
-    6. Seção HTML e CSS (Novo) 
+    * Instalando NodeJS, VSCode e Chrome no Windows 
+    * Instalando NodeJS, VSCode e Chrome no Linux (Ubuntu) 
+    * Não se esqueça de salvar seus arquivos antes de salvar 
+    * Entenda como o curso está estruturado 
+    * Perguntas e Respostas - Como funciona? 
+    * Seção HTML e CSS (Novo) 
 
-2. Seção 2: JavaScript Básico - Para iniciantes
+* Seção 2: JavaScript Básico - Para iniciantes
 
-    7. Console.log - A primeira coisa que você vai ver em JS
-    8. Exercícios
-    9. Repositório do curso no Github
-    10. Me ajude a produzir conteúdo gratuito
-    11. Comentários de códigos
-    12. Navegador vs Node (HTML + JavaScript)
-    13. Variáveis com let
-    14. Constantes com const
-    15. Correção
-    16. Exercícios - Const e Let
-    17. Código do exercício solucionado
-    18. Let vs Var - Primeira diferença
-    19. Tipos de dados primitivos
-    20. Operadores aritméticos, de atribuição e incremento
-    21. alert, confirm e prompt (Navegador)
-    22. Exercícios - Solução
-    23. Exercício com variáveis
-    24. Mais sobre strings
-    25. Exercícios com strings
-    26. Mais sobre numbers
-    27. Objeto Math
-    28. Exercícios com numbers e Math
-    29. Arrays (Básico)
-    30. Const com valores mutáveis
-    31. Funções em JavaScript - Uma introdução ao básico
-    32. Objetos (Básico)
-    33. Valores primitivos e valores por referência
-    34. Exercício para função, array e objetos
+    * Console.log - A primeira coisa que você vai ver em JS
+    * Exercícios
+    * Repositório do curso no Github
+    * Me ajude a produzir conteúdo gratuito
+    * Comentários de códigos
+    * Navegador vs Node (HTML + JavaScript)
+    * Variáveis com let
+    * Constantes com const
+    * Correção
+    * Exercícios - Const e Let
+    * Código do exercício solucionado
+    * Let vs Var - Primeira diferença
+    * Tipos de dados primitivos
+    * Operadores aritméticos, de atribuição e incremento
+    * alert, confirm e prompt (Navegador)
+    * Exercícios - Solução
+    * Exercício com variáveis
+    * Mais sobre strings
+    * Exercícios com strings
+    * Mais sobre numbers
+    * Objeto Math
+    * Exercícios com numbers e Math
+    * Arrays (Básico)
+    * Const com valores mutáveis
+    * Funções em JavaScript - Uma introdução ao básico
+    * Objetos (Básico)
+    * Valores primitivos e valores por referência
+    * Exercício para função, array e objetos
+
+* Seção 3: JavaScript - Lógica de programação
+    
+    * Sobre lógica
+    * Extensões que utilizo no VSCode
+    * Operadores de comparação
+    * Operadores Lógicos
+    * Avaliação de Curto-Circuito (Short-Circuit)
+    * if, else if e else (1)
+    * if, else if e else (2)
+    * Modelo HTML e CSS para exercícios posteriores
+    * Nota sobre o próximo exercício
+    * Exercício (unindo tudo aprendido até aqui e mais)
 

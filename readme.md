@@ -43,6 +43,7 @@ Repositório de estudos, onde armazeno todos os códigos das aulas do curso **Ja
 Projetos desenvolvidos durante o curso:
 
 [IMC Calculator](https://www.github.com/alemobn/imc-calculator-js)
+[Date and Time](https://www.github.com/alemobn/date-and-time-js)
 
 ---
 

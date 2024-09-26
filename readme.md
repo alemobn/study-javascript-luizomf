@@ -34,7 +34,7 @@
 
 ## Descrição
 
-Repositório de estudos, onde armazeno todos os códigos das aulas do curso **JavaScript** e **TypeScript** do básico ao avançado, do professor **Luiz Otávio Miranda**.
+Repositório de estudos, onde armazeno todos os códigos das aulas do curso **JavaScript e TypeScript do básico ao avançado**, do professor Luiz Otávio Miranda.
 
 [Acesse o curso aqui](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview)
 

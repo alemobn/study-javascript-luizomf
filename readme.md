@@ -1,10 +1,4 @@
 # Curso JavaScript e TypeScript
-
-![Static Badge](https://img.shields.io/badge/made_by-alemobn-0D0C0C)
-![Static Badge](https://img.shields.io/badge/license-MIT-0D0C0C)
-
-⭐ Curso de JavaScript!
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,23 +24,17 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
----
-
 ## Descrição
-
-Repositório de estudos, onde armazeno todos os códigos das aulas do curso **JavaScript e TypeScript do básico ao avançado**, do professor Luiz Otávio Miranda.
-
-[Acesse o curso aqui](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview)
+Repositório base de estudos, onde armazeno todos os códigos das aulas do curso [JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview), do professor Luiz Otávio Miranda.
 
 ## Projetos
+Projetos que foram desenvolvidos como forma de exercício durante o curso:
 
-Projetos desenvolvidos durante o curso:
-
-[IMC Calculator](https://www.github.com/alemobn/imc-calculator-js)  
-[Date and Time](https://www.github.com/alemobn/date-and-time-js)  
-[Distro List](https://www.github.com/alemobn/distro-list-js)
-
----
+[IMC Calculator](https://www.github.com/alemobn/study-imc-calculator-ex)  
+[Date and Time](https://www.github.com/alemobn/study-date-and-time-ex)  
+[Distro List](https://www.github.com/alemobn/study-distro-list-ex)  
+[P-List](https://www.github.com/alemobn/study-p-list-ex)  
+[Basic Timer](https://www.github.com/alemobn/study-basic-timer-ex)
 
 ### Conteúdo abordado
 

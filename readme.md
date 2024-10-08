@@ -34,7 +34,8 @@ Projetos que foram desenvolvidos como forma de exercício durante o curso:
 [Date and Time](https://www.github.com/alemobn/study-date-and-time-ex)  
 [Distro List](https://www.github.com/alemobn/study-distro-list-ex)  
 [P-List](https://www.github.com/alemobn/study-p-list-ex)  
-[Basic Timer](https://www.github.com/alemobn/study-basic-timer-ex)
+[Basic Timer](https://www.github.com/alemobn/study-basic-timer-ex)  
+[Basic Task List](https://www.github.com/alemobn/study-basic-task-list-ex)
 
 ### Conteúdo abordado
 

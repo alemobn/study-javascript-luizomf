@@ -17,7 +17,7 @@ function funcao2(a, b, c, d, e, f) {
 function funcao3(a, b = 2, c = 4) {
     console.log(a + b + c);
 }
-funcao3(2, undefined, 20);
+// funcao3(2, undefined, 20);
 
 function funcao4({ nome, sobrenome, idade }) {
     console.log(nome, sobrenome, idade);
@@ -25,4 +25,26 @@ function funcao4({ nome, sobrenome, idade }) {
 
 const obj = { nome: 'Luiz', sobrenome: 'Otávio', idade: 30 };
 
-funcao4(obj)
+// funcao4(obj);
+
+function funcao5([valor1, valor2, valor3]) {
+    console.log(valor1, valor2, valor3);
+}
+// funcao5(['Luiz Otávio', 'Miranda', 30]);
+
+const funcao6 = function(operador, acumulador, ...numeros) {
+    for (let numero of numeros) {
+        if (operador === '+') acumulador += numero;
+        if (operador === '-') acumulador -= numero;
+        if (operador === '/') acumulador /= numero;
+        if (operador === '*') acumulador *= numero;
+    }
+
+    console.log(acumulador);
+};
+// funcao6('*', 1, 20, 30, 40, 50);
+
+const funcao7 = function(...args) {
+    console.log(args);
+}
+funcao7('*', 1, 20, 30, 40, 50);

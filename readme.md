@@ -35,7 +35,7 @@ Projetos que foram desenvolvidos como forma de exercício durante o curso:
 [P-List](https://www.github.com/alemobn/study-p-list-ex)  
 [Distro List](https://www.github.com/alemobn/study-distro-list-ex)  
 [Date and Time](https://www.github.com/alemobn/study-date-and-time-ex)  
-[IMC Calculator](https://www.github.com/alemobn/study-imc-calculator-ex)  
+[IMC Calculator](https://www.github.com/alemobn/study-javascript-luizomf-imc-calculator)  
 
 ### Conteúdo abordado
 

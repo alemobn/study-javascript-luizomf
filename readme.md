@@ -34,7 +34,7 @@ Projetos que foram desenvolvidos como forma de exercício durante o curso:
 [Basic Timer](https://www.github.com/alemobn/study-basic-timer-ex)  
 [P-List](https://www.github.com/alemobn/study-p-list-ex)  
 [Distro List](https://www.github.com/alemobn/study-distro-list-ex)  
-[Date and Time](https://www.github.com/alemobn/study-date-and-time-ex)  
+[Date and Time Viewer](https://www.github.com/alemobn/study-javascript-luizomf-date-and-time-viewer)  
 [IMC Calculator](https://www.github.com/alemobn/study-javascript-luizomf-imc-calculator)  
 
 ### Conteúdo abordado

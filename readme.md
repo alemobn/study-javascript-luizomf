@@ -30,7 +30,7 @@ Repositório base de estudos, onde armazeno todos os códigos das aulas do curso
 ## Projetos
 Projetos que foram desenvolvidos como forma de exercício durante o curso:
 
-[Task List](https://www.github.com/alemobn/study-javascript-luizomf-task-list)
+[Task List](https://www.github.com/alemobn/study-javascript-luizomf-task-list)  
 [Timer](https://www.github.com/alemobn/study-javascript-luizomf-timer)  
 [P-List](https://www.github.com/alemobn/study-javascript-luizomf-p-list)  
 [Linux Distro List](https://www.github.com/alemobn/study-javascript-luizomf-linux-distro-list)  

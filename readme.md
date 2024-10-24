@@ -30,12 +30,12 @@ Repositório base de estudos, onde armazeno todos os códigos das aulas do curso
 ## Projetos
 Projetos que foram desenvolvidos como forma de exercício durante o curso:
 
-[IMC Calculator](https://www.github.com/alemobn/study-imc-calculator-ex)  
-[Date and Time](https://www.github.com/alemobn/study-date-and-time-ex)  
-[Distro List](https://www.github.com/alemobn/study-distro-list-ex)  
-[P-List](https://www.github.com/alemobn/study-p-list-ex)  
-[Basic Timer](https://www.github.com/alemobn/study-basic-timer-ex)  
 [Basic Task List](https://www.github.com/alemobn/study-basic-task-list-ex)
+[Basic Timer](https://www.github.com/alemobn/study-basic-timer-ex)  
+[P-List](https://www.github.com/alemobn/study-p-list-ex)  
+[Distro List](https://www.github.com/alemobn/study-distro-list-ex)  
+[Date and Time](https://www.github.com/alemobn/study-date-and-time-ex)  
+[IMC Calculator](https://www.github.com/alemobn/study-imc-calculator-ex)  
 
 ### Conteúdo abordado
 

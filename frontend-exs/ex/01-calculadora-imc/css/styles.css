@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+    --background-body: #f5f5f5;
+    --text-color: #333;
+    --background-container: #ffffff;
+    --background-header: #333;
+    --text-header: #ffffff;
+    --background-row-odd: #e0e0e0;
+    --background-row-even: #ffffff;
+    --background-row-hover: #d0d0d0;
+    --border-color: #ccc;
+    --input-background: #ffffff;
+    --input-text: #333;
+    --button-background: #333;
+    --button-text: #ffffff;
+    --button-hover: #555;
+    --separator-color: #ccc;
+}
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: var(--background-body);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: var(--background-container);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    color: var(--text-header);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid var(--border-color);
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: var(--background-header);
+    color: var(--text-header);
+    font-size: 1.2em;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: var(--background-row-odd);
+}
+
+tbody tr:nth-child(even) {
+    background-color: var(--background-row-even);
+}
+
+tbody tr:hover {
+    background-color: var(--background-row-hover);
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--separator-color);
+    margin: 20px 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background-color: var(--input-background);
+    color: var(--input-text);
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--button-background);
+    color: var(--button-text);
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: var(--button-hover);
+}
+
+#resultado {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 1.1em;
+    color: var(--text-color);
+}

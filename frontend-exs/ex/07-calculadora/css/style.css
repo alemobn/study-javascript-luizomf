@@ -48,6 +48,35 @@ body {
     text-align: center;
 }
 
+.container .calculadora .display {
+    font-size: 1.2rem;
+    border-radius: 7px;
+    margin-bottom: 22px;
+    border: none;
+    background-color: var(--body-color);
+    height: 35px;
+    text-align: center;
+    box-shadow: var(--box-shadow);
+    color: var(--font-color);
+}
+
+.container .calculadora .btn {
+    width: 100%;
+    padding: 10px 15px;
+    background-color: var(--body-color);
+    color: var(--font-color);
+    border: 1px solid var(--body-color);
+    border-radius: 7px;
+    transition: .3s;
+    font-size: 1.1rem;
+}
+
+.container .calculadora .btn:hover {
+    box-shadow: var(--box-shadow);
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
 .footer {
     padding: 20px;
     background-color: var(--container-color);

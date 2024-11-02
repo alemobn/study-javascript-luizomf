@@ -27,16 +27,6 @@
 ## Descrição
 Repositório base de estudos, onde armazeno todos os códigos das aulas do curso [JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16342392?start=0#overview), do professor Luiz Otávio Miranda.
 
-## Projetos
-Projetos que foram desenvolvidos como forma de exercício durante o curso:
-
-[Task List](https://www.github.com/alemobn/study-javascript-luizomf-task-list)  
-[Timer](https://www.github.com/alemobn/study-javascript-luizomf-timer)  
-[P-List](https://www.github.com/alemobn/study-javascript-luizomf-p-list)  
-[Linux Distro List](https://www.github.com/alemobn/study-javascript-luizomf-linux-distro-list)  
-[Date and Time Viewer](https://www.github.com/alemobn/study-javascript-luizomf-date-and-time-viewer)  
-[IMC Calculator](https://www.github.com/alemobn/study-javascript-luizomf-imc-calculator)  
-
 ### Conteúdo abordado
 
 * JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end)

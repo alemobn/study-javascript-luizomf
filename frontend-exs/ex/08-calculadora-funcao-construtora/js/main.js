@@ -21,7 +21,7 @@ function Calculadora() {
         document.addEventListener('keydown', event => {
             const { key } = event;
 
-            if (event.key === 'Enter') this.realizaConta()
+            if (event.key === 'Enter') this.realizaConta();
             else if (event.key === 'Delete') this.clearDisplay();
             else if (event.key === 'Backspace') this.btnDel();
             else if ('0123456789'.includes(key)) this.display.value += key;
